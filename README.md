@@ -1,2 +1,4 @@
 # Parents have to walk less to inform the addicted child about e.g. lunch
-This project aims to send a command from an app to a PC via a server. With the app it is possible to inform a child that is playing on the PC about the finished lunch, because the command triggers a sound to be played.
+
+##Client PC
+This program runs on the PC and is included in the Autostart. Thus the commands can be received permanently. Then the commands are processed and the resulting actions are executed, such as a sound that is played.
