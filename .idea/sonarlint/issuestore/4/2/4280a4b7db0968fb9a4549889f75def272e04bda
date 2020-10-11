@@ -1,0 +1,37 @@
+
+]
+java:S2142â"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?	java:S108Ú")Either remove or fill this block of code.(ŸäÁ‚
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(µ–ç‹ÿÿÿÿÿ
+P
+java:S2274ı":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(†şŸøüÿÿÿÿ
+ƒ
+java:S1130û"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(«¤ß‹
+?	java:S108´")Either remove or fill this block of code.(ï­£Ä
+?	java:S108â")Either remove or fill this block of code.(ä ¹€
+A
+java:S1181å"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+f
+java:S1874£"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+V
+java:S2274‘":Remove this call to "wait" or move it into a "while" loop.(Ş·Ùğüÿÿÿÿ
+?	java:S108ï")Either remove or fill this block of code.(»ªÁ¥
+A
+java:S1181‘"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+
+java:S1130û"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(«¤ß‹
+I
+java:S1113£"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÚÃúÿÿÿÿ
+?	java:S108Ò")Either remove or fill this block of code.(»ªÁ¥
+`
+java:S2095Ğ"DUse try-with-resources or close this "Socket" in a "finally" clause.(¸áúœúÿÿÿÿ
+]
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“–ış
+?	java:S108")Either remove or fill this block of code.(ä ¹€
+\
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(µâ—ı

@@ -1,17 +1,65 @@
+import network.common.Command;
+import network.common.Logger;
+import network.server.Server;
+import network.server.ServerListener;
+
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.ArrayList;
 
 public class Main {
 
     private static boolean end = false;
-    public static ArrayList<String> commandsOnWait = new ArrayList();
 
     private static ServerSocket ss;
 
     public static void main(String[] args) throws IOException {
-        startServerSocket();
+        startServer();
+    }
+
+    private static void startServer() {
+        Thread thread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                Server server = new Server(1002, new Logger());
+                server.addServerListener(new ServerListener() {
+                    @Override
+                    public void clientConnected(Server server, Server.ConnectionToClient client) {
+
+                    }
+
+                    @Override
+                    public void messageReceived(Server server, Server.ConnectionToClient client, Object msg) {
+                        server.sendToAll(msg.toString());
+                    }
+
+                    @Override
+                    public void commandReceived(Server server, Server.ConnectionToClient client, Command cmd) {
+
+                    }
+
+                    @Override
+                    public void clientDisconnected(Server server, Server.ConnectionToClient client) {
+                        server.sendToAll("online=false");
+                    }
+
+                    @Override
+                    public void messageSent(Server server, Server.ConnectionToClient toClient, Object msg) {
+
+                    }
+
+                    @Override
+                    public void commandSent(Server server, Server.ConnectionToClient toClient, Command cmd) {
+
+                    }
+                });
+                if (server.start()) System.out.println("Server online.");
+                while (server.running()) {
+
+                }
+            }
+        });
+        thread.start();
     }
 
     private static void startServerSocket() {

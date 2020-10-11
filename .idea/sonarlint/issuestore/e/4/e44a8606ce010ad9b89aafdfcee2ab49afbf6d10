@@ -1,0 +1,32 @@
+
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(˜šÿı
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Î¹ì Ñ.
+0
+java:S1220""Move this file to a named package.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.( “ øÿÿÿÿ8÷›† Ñ.
+D
+java:S1604"(Make this anonymous inner class a lambda(ô§ê8¦İ… Ñ.
+£
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(éâ¡øÿÿÿÿ8¯Æ˜¡Ñ.
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ÈÑ¡“şÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öÈ«8¯Æ˜¡Ñ.
+£
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÉ üÿÿÿÿ8¯Æ˜¡Ñ.
+P
+java:S1141P"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+\
+java:S2142h"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+\
+java:S2142w"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(ö­çÉùÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(ŠÛÖ‹øÿÿÿÿ
+=
+java:S2189O""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+=
+java:S1604B"(Make this anonymous inner class a lambda(ô§ê
+J	java:S1089")Either remove or fill this block of code.(áˆ’üıÿÿÿÿ8ñ í Ñ.
+£
+java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿£çüÿÿÿÿ8¯Æ˜¡Ñ.
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(§ùÿÿÿÿ

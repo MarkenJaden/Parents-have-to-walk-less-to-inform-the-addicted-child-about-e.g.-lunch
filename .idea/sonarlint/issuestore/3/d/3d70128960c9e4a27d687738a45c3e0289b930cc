@@ -1,0 +1,19 @@
+
+
+java:S1319"yThe type of the "commandsOnWait" object should be an interface such as "List" rather than the implementation "ArrayList".(Η•°,
+I
+java:S1444"4Make this "public static commandsOnWait" field final(Η•°,
+G
+java:S1444",Make this "public static online" field final(Φ­Ξωÿÿÿÿ
+D
+java:S3740"/Provide the parametrized type for this generic.(Η•°,
+o
+java:S1104"ZMake commandsOnWait a static final constant or non-public and provide accessors if needed.(Η•°,
+m
+java:S1104"RMake online a static final constant or non-public and provide accessors if needed.(Φ­Ξωÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+2
+java:S2386"Make this member "protected".(Η•°,
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Θ§σωÿÿÿÿ

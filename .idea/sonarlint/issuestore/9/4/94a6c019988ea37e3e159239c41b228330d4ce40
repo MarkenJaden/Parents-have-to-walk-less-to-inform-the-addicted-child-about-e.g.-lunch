@@ -1,0 +1,17 @@
+
+7
+java:S1643"Use a StringBuilder instead.(ÏÏ¥îüÿÿÿÿ
+P
+java:S1141<"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+o
+java:S1450"YRemove the "stringData" field and declare it as a local variable in the relevant methods.(«ÅŸ²
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿©ì²
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ÅÃÎ½
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(¼®Û²
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ä¹ï¥
+\
+java:S2142>"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

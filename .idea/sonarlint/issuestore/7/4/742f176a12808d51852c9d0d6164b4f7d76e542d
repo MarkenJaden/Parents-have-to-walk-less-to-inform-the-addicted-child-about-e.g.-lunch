@@ -1,0 +1,57 @@
+
+g
+java:S1206ù"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+Q
+java:S1141Š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+A
+java:S1181«"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+i
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(“–ış
+A
+java:S1181¡"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+\
+java:S1124™"EReorder the modifiers to comply with the Java Language Specification.(µâ—ı
+A
+java:S1181å"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+
+java:S1130ã"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(«¤ß‹
+ƒ
+java:S1130ã"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(«¤ß‹
+?	java:S108¦")Either remove or fill this block of code.(ŸäÁ‚
+?	java:S108")Either remove or fill this block of code.(ä ¹€
+Q
+java:S1161¸":Add the "@Override" annotation above this method signature(“–ış
+]
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+f
+java:S1874¥"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+P
+java:S2274ş":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+V
+java:S2274’":Remove this call to "wait" or move it into a "while" loop.(Ş·Ùğüÿÿÿÿ
+?	java:S108ì")Either remove or fill this block of code.(ï­£Ä
+?	java:S108")Either remove or fill this block of code.(ŸäÁ‚
+T	java:S106æ"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+]
+java:S2142—"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+I
+java:S1113¸"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+?	java:S108ó")Either remove or fill this block of code.(»ªÁ¥
+?	java:S108—")Either remove or fill this block of code.(ä ¹€
+?	java:S108à")Either remove or fill this block of code.(ï­£Ä
+f
+java:S1874¸"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+?	java:S108ª")Either remove or fill this block of code.(ï­£Ä
+A
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+n
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ò•ø¿şÿÿÿÿ
+I
+java:S1113¥"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+Q
+java:S1141‡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÚÃúÿÿÿÿ
+Q
+java:S1141•"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?	java:S108å")Either remove or fill this block of code.(ï­£Ä

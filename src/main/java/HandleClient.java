@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
+import java.sql.Timestamp;
 
 public class HandleClient extends Thread {
 
@@ -22,25 +23,25 @@ public class HandleClient extends Thread {
             PrintWriter output = new PrintWriter(s.getOutputStream());
 
             stringData = input.readLine();
-            System.out.println(s.getRemoteSocketAddress() + " " + stringData);
+            System.out.println(new Timestamp(System.currentTimeMillis()) + " : " + s.getRemoteSocketAddress() + " " + stringData);
             switch (stringData) {
                 case "checkForCommands":
                     String commands = "";
-                    for (String cmd : Main.commandsOnWait) {
+                    for (String cmd : Storgae.commandsOnWait) {
                         commands = commands + cmd + " ";
                     }
                     output.println(commands);
                     output.flush();
-                    Main.commandsOnWait.clear();
+                    Storgae.commandsOnWait.clear();
                     break;
                 case "list":
-                    for (String cmd : Main.commandsOnWait) {
+                    for (String cmd : Storgae.commandsOnWait) {
                         System.out.println(cmd);
                     }
                     break;
                 case "clear":
-                    Main.commandsOnWait.clear();
-                    System.out.println("--- COMMANDS CLEARED ---");
+                    Storgae.commandsOnWait.clear();
+                    System.out.println("--- STORED COMMANDS CLEARED ---");
                     break;
                 case "restart":
                     System.out.println("Server restart initiated.");
@@ -51,7 +52,7 @@ public class HandleClient extends Thread {
                     break;
                 default:
                     output.println(stringData.toUpperCase());
-                    Main.commandsOnWait.add(stringData);
+                    Storgae.commandsOnWait.add(stringData);
                     output.flush();
                     break;
             }
