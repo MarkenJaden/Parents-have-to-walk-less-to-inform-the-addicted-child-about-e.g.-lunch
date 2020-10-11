@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50f452a4-3da3-44a4-9605-ee38309da315" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ServerBetweenPhoneAndPC" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ServerBetweenPhoneAndPC" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ServerBetweenPhoneAndPC" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="shadow" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1de97KBSOjhhte37vR7nyXiJPFt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunManager" selected="Gradle.ServerBetweenPhoneAndPC [shadowJar]">
+    <configuration name="ServerBetweenPhoneAndPC [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerBetweenPhoneAndPC [runShadow]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runShadow" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerBetweenPhoneAndPC [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerBetweenPhoneAndPC [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.ServerBetweenPhoneAndPC [run]" />
+      <item itemvalue="Gradle.ServerBetweenPhoneAndPC [runShadow]" />
+      <item itemvalue="Gradle.ServerBetweenPhoneAndPC [jar]" />
+      <item itemvalue="Gradle.ServerBetweenPhoneAndPC [shadowJar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ServerBetweenPhoneAndPC [shadowJar]" />
+        <item itemvalue="Gradle.ServerBetweenPhoneAndPC [run]" />
+        <item itemvalue="Gradle.ServerBetweenPhoneAndPC [runShadow]" />
+        <item itemvalue="Gradle.ServerBetweenPhoneAndPC [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f452a4-3da3-44a4-9605-ee38309da315" name="Default Changelist" comment="" />
+      <created>1592774522379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592774522379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="4" key="#Project_Structure" timestamp="1592775082131">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="4" key="#Project_Structure/1440.72.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1592775082131" />
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592855662135">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.72.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1592855662135" />
+    <state width="1397" height="110" key="GridCell.Tab.0.bottom" timestamp="1593457667207">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="110" key="GridCell.Tab.0.bottom/1440.72.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1593457667207" />
+    <state width="1323" height="110" key="GridCell.Tab.0.bottom/1440.72.1366.728/0.0.1440.860@1440.72.1366.728" timestamp="1593376211850" />
+    <state width="1397" height="110" key="GridCell.Tab.0.center" timestamp="1593457667207">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="110" key="GridCell.Tab.0.center/1440.72.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1593457667207" />
+    <state width="1323" height="110" key="GridCell.Tab.0.center/1440.72.1366.728/0.0.1440.860@1440.72.1366.728" timestamp="1593376211849" />
+    <state width="1397" height="110" key="GridCell.Tab.0.left" timestamp="1593457667207">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="110" key="GridCell.Tab.0.left/1440.72.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1593457667207" />
+    <state width="1323" height="110" key="GridCell.Tab.0.left/1440.72.1366.728/0.0.1440.860@1440.72.1366.728" timestamp="1593376211849" />
+    <state width="1397" height="110" key="GridCell.Tab.0.right" timestamp="1593457667207">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="110" key="GridCell.Tab.0.right/1440.72.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1593457667207" />
+    <state width="1323" height="110" key="GridCell.Tab.0.right/1440.72.1366.728/0.0.1440.860@1440.72.1366.728" timestamp="1593376211850" />
+    <state x="221" y="75" key="SettingsEditor" timestamp="1593383143585">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="75" key="SettingsEditor/1440.72.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1593383143585" />
+    <state x="102" y="40" key="new project wizard" timestamp="1593347127682">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="102" y="40" key="new project wizard/1440.72.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1593347127682" />
+    <state x="1786" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1593356456064">
+      <screen x="1440" y="72" width="1366" height="728" />
+    </state>
+    <state x="1786" y="121" width="672" height="678" key="search.everywhere.popup/1440.72.1366.728/0.0.1440.860@1440.72.1366.728" timestamp="1593356456064" />
+  </component>
+</project>
