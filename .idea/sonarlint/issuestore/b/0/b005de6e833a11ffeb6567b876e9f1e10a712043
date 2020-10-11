@@ -1,0 +1,25 @@
+
+s
+java:S1104"QMake muted a static final constant or non-public and provide accessors if needed.(âáÁÆÿÿÿÿÿ8¹ÓØ¨Ñ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¯ß®‚8ĞƒØ¨Ñ.
+M
+java:S1444"+Make this "public static muted" field final(âáÁÆÿÿÿÿÿ8¹ÓØ¨Ñ.
+
+java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚È¶¶8ëç¼¡Ñ.
+>	java:S131""Add a default case to this switch.(ßÌ§8Ú½¡Ñ.
+£
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºÈµÀüÿÿÿÿ8ëç¼¡Ñ.
+X	java:S125`"<This block of commented-out lines of code should be removed.(˜ˆØ¥8Û“ğ Ñ.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Í‘ÚË8ĞƒØ¨Ñ.
+0
+java:S1220""Move this file to a named package.
+
+java:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ˆå8ëç¼¡Ñ.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(İÎ»ì8ĞƒØ¨Ñ.
+o
+java:S20952"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(êíøÿÿÿÿ8ĞƒØ¨Ñ.
+
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç‡Á™8™¤š©Ñ.

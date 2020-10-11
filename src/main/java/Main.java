@@ -7,7 +7,10 @@ public class Main {
     public static Socket s;
 
     public static void main(String[] args) {
-        TimerTasks timerTasks = new TimerTasks();
-        timerTasks.checkForCommands();
+
+        TrayStuff ts = new TrayStuff();
+
+        ClientController cc = new ClientController();
+        cc.checkForCommands();
     }
 }

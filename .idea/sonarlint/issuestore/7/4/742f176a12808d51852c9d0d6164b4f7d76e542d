@@ -1,0 +1,57 @@
+
+Q
+java:S1141à"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+ƒ
+java:S1130Ğ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(«¤ß‹
+
+java:S1130Ğ"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(«¤ß‹
+P
+java:S2274ä":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+V
+java:S2274õ":Remove this call to "wait" or move it into a "while" loop.(Ş·Ùğüÿÿÿÿ
+\
+java:S1124ü"EReorder the modifiers to comply with the Java Language Specification.(µâ—ı
+?	java:S108")Either remove or fill this block of code.(ï­£Ä
+A
+java:S1181Œ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+?	java:S108‡")Either remove or fill this block of code.(ŸäÁ‚
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ò•ø¿şÿÿÿÿ
+Q
+java:S1161™":Add the "@Override" annotation above this method signature(“–ış
+A
+java:S1181Æ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+?	java:S108Í")Either remove or fill this block of code.(ï­£Ä
+?	java:S108Ô")Either remove or fill this block of code.(»ªÁ¥
+i
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(“–ış
+A
+java:S1181‚"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+]
+java:S2142ş"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?	java:S108ş")Either remove or fill this block of code.(ä ¹€
+g
+java:S1206Ò"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+
+java:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÚÃúÿÿÿÿ
+?	java:S108¹")Either remove or fill this block of code.(ï­£Ä
+?	java:S108¾")Either remove or fill this block of code.(ï­£Ä
+A
+java:S1181÷"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+?	java:S108è")Either remove or fill this block of code.(ŸäÁ‚
+]
+java:S2142ğ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?	java:S108ğ")Either remove or fill this block of code.(ä ¹€
+f
+java:S1874ş"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+I
+java:S1113ş"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+f
+java:S1874‘"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+I
+java:S1113‘"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ

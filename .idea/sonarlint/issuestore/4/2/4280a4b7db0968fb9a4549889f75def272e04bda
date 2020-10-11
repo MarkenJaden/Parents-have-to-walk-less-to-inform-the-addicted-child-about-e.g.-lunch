@@ -1,0 +1,37 @@
+
+?	java:S108Ğ")Either remove or fill this block of code.(ä ¹€
+P
+java:S2274ò":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+V
+java:S2274ƒ":Remove this call to "wait" or move it into a "while" loop.(Ş·Ùğüÿÿÿÿ
+`
+java:S2095Æ"DUse try-with-resources or close this "Socket" in a "finally" clause.(¸áúœúÿÿÿÿ
+
+java:S1130ô"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(«¤ß‹
+
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÚÃúÿÿÿÿ
+T	java:S106×"9Replace this use of System.out or System.err by a logger.(µ–ç‹ÿÿÿÿÿ
+?	java:S108Ä")Either remove or fill this block of code.(»ªÁ¥
+?	java:S108¦")Either remove or fill this block of code.(ï­£Ä
+]
+java:S2142‚"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+A
+java:S1181Ó"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+?	java:S108Ğ")Either remove or fill this block of code.(ŸäÁ‚
+A
+java:S1181ƒ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+i
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(“–ış
+?	java:S108‚")Either remove or fill this block of code.(ä ¹€
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(†şŸøüÿÿÿÿ
+?	java:S108á")Either remove or fill this block of code.(»ªÁ¥
+\
+java:S1124Š"EReorder the modifiers to comply with the Java Language Specification.(µâ—ı
+]
+java:S2142Ğ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+I
+java:S1113"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+ƒ
+java:S1130ô"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(«¤ß‹
+f
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
